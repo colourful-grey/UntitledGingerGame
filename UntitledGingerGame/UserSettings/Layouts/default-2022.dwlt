@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 102
+  controlID: 37
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -315,15 +315,13 @@ MonoBehaviour:
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
-    m_VersionControlStates: []
-    m_SoftLockControlStates: []
     m_ReferencingInstanceIDs: 
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Model
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -331,30 +329,30 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Model
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\UntitledGingerGame\UntitledGingerGame\UntitledGingerGame
+  m_LastProjectPath: D:\Aa_Gamedev\UntitledGingerGame\UntitledGingerGame\UntitledGingerGame
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6a590000
-    m_LastClickedID: 22890
-    m_ExpandedIDs: 000000004259000000ca9a3bffffff7f
+    m_SelectedIDs: 4c590000
+    m_LastClickedID: 22860
+    m_ExpandedIDs: 000000004c59000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Scenes
-      m_OriginalName: Scenes
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 22856
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -368,7 +366,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000042590000
+    m_ExpandedIDs: 000000004c590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,9 +506,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: daf6ffff
       m_LastClickedID: 0
-      m_ExpandedIDs: acf9ffff
+      m_ExpandedIDs: caf9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -851,9 +849,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.9493682, y: 0.13725269, z: -6.9416757}
+    m_Target: {x: 2.9263341, y: 0.11256492, z: -7.0204206}
     speed: 2
-    m_Value: {x: 2.9493682, y: 0.13725269, z: -6.9416757}
+    m_Value: {x: 2.9263341, y: 0.11256492, z: -7.0204206}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -899,13 +897,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.11467269, y: -0.85911685, z: 0.22010995, w: 0.44758427}
+    m_Target: {x: -0.103057854, y: 0.7455838, z: -0.11864668, w: -0.64762104}
     speed: 2
-    m_Value: {x: 0.11500206, y: -0.8584395, z: 0.21993642, w: 0.44886982}
+    m_Value: {x: -0.10287945, y: 0.74655205, z: -0.11880077, w: -0.64649993}
   m_Size:
-    m_Target: 0.13516729
+    m_Target: 0.15159255
     speed: 2
-    m_Value: 0.13516784
+    m_Value: 0.14506464
   m_Ortho:
     m_Target: 0
     speed: 2

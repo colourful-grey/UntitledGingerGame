@@ -1,23 +1,23 @@
 Using pre-set license
-Built from '2022.3/release' branch; Version is '2022.3.0f1 (fb119bb0b476) revision 16454043'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 8034 MB
+Built from '2022.3/staging' branch; Version is '2022.3.2f1 (d74737c6db50) revision 14108471'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'en' Physical Memory: 16310 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\Program Files\Unity\2022.3.0f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2022.3.2f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-D:/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame
+D:/Aa_Gamedev/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61222
-Successfully changed project path to: D:/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame
-D:/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame
+52540
+Successfully changed project path to: D:/Aa_Gamedev/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame
+D:/Aa_Gamedev/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,66 +49,64 @@ D:/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [18272] Host "[IP] 192.168.1.19 [Port] 0 [Flags] 2 [Guid] 367676358 [EditorId] 367676358 [Version] 1048832 [Id] WindowsEditor(7,Ryan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [20268] Host "[IP] 192.168.100.9 [Port] 0 [Flags] 2 [Guid] 966829218 [EditorId] 966829218 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-JTJ0L7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [18272] Host "[IP] 192.168.1.19 [Port] 0 [Flags] 2 [Guid] 367676358 [EditorId] 367676358 [Version] 1048832 [Id] WindowsEditor(7,Ryan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [20268] Host "[IP] 192.168.100.9 [Port] 0 [Flags] 2 [Guid] 966829218 [EditorId] 966829218 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-JTJ0L7J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 20.33 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 9.13 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2022.3.0f1 (fb119bb0b476)
-[Subsystems] Discovering subsystems at path D:/Program Files/Unity/2022.3.0f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame/Assets
+Initialize engine version: 2022.3.2f1 (d74737c6db50)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Aa_Gamedev/UntitledGingerGame/UntitledGingerGame/UntitledGingerGame/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Renderer: NVIDIA GeForce RTX 3060 Ti (ID=0x2489)
     Vendor:   NVIDIA
-    VRAM:     5979 MB
-    Driver:   31.0.15.2756
+    VRAM:     8038 MB
+    Driver:   31.0.15.3179
 Initialize mono
-Mono path[0] = 'D:/Program Files/Unity/2022.3.0f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Program Files/Unity/2022.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Program Files/Unity/2022.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56544
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/Unity/2022.3.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: D:/Program Files/Unity/2022.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008696 seconds.
-- Loaded All Assemblies, in  0.696 seconds
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008946 seconds.
+- Loaded All Assemblies, in  0.326 seconds
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.541 seconds
-Domain Reload Profiling: 1237ms
-	BeginReloadAssembly (268ms)
+- Finished resetting the current domain, in  0.253 seconds
+Domain Reload Profiling: 578ms
+	BeginReloadAssembly (84ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (71ms)
-	RebuildNativeTypeToScriptingClass (25ms)
-	initialDomainReloadingComplete (83ms)
-	LoadAllAssembliesAndSetupDomain (247ms)
-		LoadAssemblies (267ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (134ms)
+		LoadAssemblies (81ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (242ms)
-			TypeCache.Refresh (240ms)
-				TypeCache.ScanAssembly (220ms)
-			ScanForSourceGeneratedMonoScriptInfo (1ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (541ms)
+		AnalyzeDomain (128ms)
+			TypeCache.Refresh (127ms)
+				TypeCache.ScanAssembly (117ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (254ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (425ms)
+		SetupLoadedEditorAssemblies (196ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (18ms)
-			SetLoadedEditorAssemblies (17ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (8ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (6ms)
-			ProcessInitializeOnLoadAttributes (273ms)
-			ProcessInitializeOnLoadMethodAttributes (110ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (132ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -116,12 +114,11 @@ Domain Reload Profiling: 1237ms
 ========================================================================
 Worker process is ready to serve import requests
 Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image D:\UntitledGingerGame\UntitledGingerGame\UntitledGingerGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image D:\UntitledGingerGame\UntitledGingerGame\UntitledGingerGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-- Loaded All Assemblies, in  1.366 seconds
-Refreshing native plugins compatible for Editor in 4.65 ms, found 3 plugins.
+Symbol file LoadedFromMemory doesn't match image D:\Aa_Gamedev\UntitledGingerGame\UntitledGingerGame\UntitledGingerGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image D:\Aa_Gamedev\UntitledGingerGame\UntitledGingerGame\UntitledGingerGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.717 seconds
+Refreshing native plugins compatible for Editor in 2.03 ms, found 3 plugins.
 Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 System.Exception: Error! Visual Scripting: couldn't find visual scripting package
   at Unity.VisualScripting.PackageVersionUtility.get_version () [0x00043] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Utilities\PackageVersionUtility.cs:31 
   at Unity.VisualScripting.BoltCoreManifest.get_version () [0x00000] in .\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Plugin\BoltCoreManifest.cs:11 
@@ -140,47 +137,47 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
 
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.257 seconds
-Domain Reload Profiling: 3625ms
-	BeginReloadAssembly (280ms)
+- Finished resetting the current domain, in  0.863 seconds
+Domain Reload Profiling: 1578ms
+	BeginReloadAssembly (137ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (9ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (53ms)
-	RebuildCommonClasses (54ms)
-	RebuildNativeTypeToScriptingClass (20ms)
-	initialDomainReloadingComplete (70ms)
-	LoadAllAssembliesAndSetupDomain (943ms)
-		LoadAssemblies (461ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (481ms)
+		LoadAssemblies (244ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (633ms)
-			TypeCache.Refresh (594ms)
-				TypeCache.ScanAssembly (565ms)
-			ScanForSourceGeneratedMonoScriptInfo (32ms)
-			ResolveRequiredComponents (7ms)
-	FinalizeReload (2258ms)
+		AnalyzeDomain (304ms)
+			TypeCache.Refresh (288ms)
+				TypeCache.ScanAssembly (276ms)
+			ScanForSourceGeneratedMonoScriptInfo (13ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (864ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1962ms)
+		SetupLoadedEditorAssemblies (722ms)
 			LogAssemblyErrors (0ms)
 			InitializePlatformSupportModulesInManaged (7ms)
-			SetLoadedEditorAssemblies (10ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (82ms)
-			ProcessInitializeOnLoadAttributes (1790ms)
-			ProcessInitializeOnLoadMethodAttributes (66ms)
-			AfterProcessingInitializeOnLoad (7ms)
-			EditorAssembliesLoaded (1ms)
+			BeforeProcessingInitializeOnLoad (67ms)
+			ProcessInitializeOnLoadAttributes (616ms)
+			ProcessInitializeOnLoadMethodAttributes (18ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (25ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
-Refreshing native plugins compatible for Editor in 4.51 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 5.87 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3066 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 31 unused Assets / (56.2 KB). Loaded Objects now: 3531.
-Memory consumption went from 115.8 MB to 115.8 MB.
-Total: 28.538400 ms (FindLiveObjects: 0.565500 ms CreateObjectMapping: 0.396500 ms MarkObjects: 27.285900 ms  DeleteObjects: 0.287800 ms)
+Unloading 31 unused Assets / (56.3 KB). Loaded Objects now: 3531.
+Memory consumption went from 115.7 MB to 115.6 MB.
+Total: 12.020600 ms (FindLiveObjects: 0.272000 ms CreateObjectMapping: 0.092500 ms MarkObjects: 11.544900 ms  DeleteObjects: 0.110300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -195,17 +192,41 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 53268.802334 seconds.
-  path: Assets/Model/Ginger Variant.prefab
+  Time since last request: 12649.965371 seconds.
+  path: Assets/Model/Ginger Prefab.prefab
   artifactKey: Guid(494cc8a4446539645bc668af3d0a94e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/Ginger Variant.prefab using Guid(494cc8a4446539645bc668af3d0a94e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd497c6d88d1981d513c2bdbf43fe56f') in 0.170767 seconds
+Start importing Assets/Model/Ginger Prefab.prefab using Guid(494cc8a4446539645bc668af3d0a94e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28794c69528d92866d25f25ea2caff71') in 0.104862 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 14
 ========================================================================
 Received Import Request.
-  Time since last request: 12.584700 seconds.
-  path: Assets/Model/Ginger Prefab.prefab
-  artifactKey: Guid(494cc8a4446539645bc668af3d0a94e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Model/Ginger Prefab.prefab using Guid(494cc8a4446539645bc668af3d0a94e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9eca1370166fdc9803f58be580db508') in 0.012081 seconds
+  Time since last request: 0.000027 seconds.
+  path: Assets/Model
+  artifactKey: Guid(dd265b3245003bd4eb324c17364ee7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Model using Guid(dd265b3245003bd4eb324c17364ee7f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678adaa8d4624ba82e426e61bd898388') in 0.000398 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 14
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 3.787543 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a4fe85251aa2e89732c359432baa2c3') in 0.000322 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 19.479592 seconds.
+  path: Assets/Material
+  artifactKey: Guid(bd827a7ddb1cf204fbd971bb679d0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(bd827a7ddb1cf204fbd971bb679d0d4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ffc0262dc2845c4718cdb21b361194') in 0.000451 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.088544 seconds.
+  path: Assets/Material/Material.mat
+  artifactKey: Guid(47900ed876547124185736c0930fb1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Material.mat using Guid(47900ed876547124185736c0930fb1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '897964d821c224bb0880dbc7f17d96a0') in 0.121849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1

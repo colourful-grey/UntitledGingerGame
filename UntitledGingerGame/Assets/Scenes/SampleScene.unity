@@ -317,6 +317,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5427941430217985718, guid: 494cc8a4446539645bc668af3d0a94e8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 47900ed876547124185736c0930fb1a1, type: 2}
     - target: {fileID: 5787995822732570467, guid: 494cc8a4446539645bc668af3d0a94e8, type: 3}
       propertyPath: m_Name
       value: Ginger
